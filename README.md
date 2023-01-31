@@ -1,53 +1,54 @@
 # Social-Network-API
 
-  ## Description
-  
-  API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. Used Express.js for routing, a MongoDB database, and the Mongoose ODM. No seed data provided, all data created with Insomnia after creating the API.
+## Description
 
-  ## Table of Contents
-  
-  - [Installation](#installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Contributions](#Contributions)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. Used Express.js for routing, a MongoDB database, and the Mongoose ODM. No seed data provided, all data created with Insomnia after creating the API.
 
-  ## Installation
-  
-  How to install:
-  "npm install" after cloning repository to ensure proper dependencies are installed
+## Table of Contents
 
-  ## Usage
-  
-  "npm run start" will start the server
-  <br />
-  <br />
-  [Link to video walkthrough](https://watch.screencastify.com/v/M70gooyHrW7S0dk6Sb7s)
-  <br />
-  <br />
-  ![Screenshot](./assets/Social-Network-Screenshot.png)
+- [Installation](#installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributions](#Contributions)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
-  ## License
-  
-  ![badmath](https://img.shields.io/github/license/Michael-Alvarado/Social-Network-API?style=for-the-badge)
+## Installation
 
-  ## Badges
+How to install:
+"npm install" after cloning repository to ensure proper dependencies are installed
 
-  ![badmath](https://img.shields.io/github/repo-size/Michael-Alvarado/Social-Network-API?style=for-the-badge)
-  ![badmath](https://img.shields.io/github/languages/count/Michael-Alvarado/Social-Network-API?style=for-the-badge)
+## Usage
 
-  ## Contributions
-  
-  reach out to me
+"npm run start" will start the server
+<br />
+<br />
+[Link to video walkthrough](https://watch.screencastify.com/v/M70gooyHrW7S0dk6Sb7s)
+<br />
+<br />
+![Screenshot](./assets/Social%20Network%20Screenshot.png)
 
-  ## Tests
-  
-  Steps necessary to test:
-  No tests written at this time
+## License
 
-  ## Questions
-  
-  Feel free to reach out to me if you have any questions. Contact info below:
-  - [GitHub](https:://github.com/Michael-Alvarado)
-  - Email: alvaradomike5@gmail.com
+![badmath](https://img.shields.io/github/license/Michael-Alvarado/Social-Network-API?style=for-the-badge)
+
+## Badges
+
+![badmath](https://img.shields.io/github/repo-size/Michael-Alvarado/Social-Network-API?style=for-the-badge)
+![badmath](https://img.shields.io/github/languages/count/Michael-Alvarado/Social-Network-API?style=for-the-badge)
+
+## Contributions
+
+reach out to me
+
+## Tests
+
+Steps necessary to test:
+No tests written at this time
+
+## Questions
+
+Feel free to reach out to me if you have any questions. Contact info below:
+
+- [GitHub](https:://github.com/Michael-Alvarado)
+- Email: alvaradomike5@gmail.com
