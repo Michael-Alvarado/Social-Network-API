@@ -21,8 +21,10 @@
   ## Usage
   
   "npm run start" will start the server
+  <br />
   [Link to video walkthrough](https://watch.screencastify.com/v/M70gooyHrW7S0dk6Sb7s)
-  [Screenshot](./assets/Social-Network-Screenshot.png)
+  <br />
+  ![Screenshot](./assets/Social-Network-Screenshot.png)
 
   ## License
   
